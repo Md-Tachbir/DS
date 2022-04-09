@@ -47,7 +47,7 @@ void printArr(int A[], int n)
 
 int main()
 {
-    int A[] ={D,A,T,A,S,T,R,U,C,T,U,R,E,S};
+    int A[] ={9,4,3,11,15,20,2,24,30,1,35};
     int n =sizeof(A)/sizeof(A[0]);
     cout<<"Before sorting array elements are : \n";
     printArr(A,n);
